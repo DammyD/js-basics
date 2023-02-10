@@ -1,6 +1,7 @@
 # js-basics
 
 # Assignment
+
 For this assignment, create a folder and name it ‘js-basics’. Put the answers to Questions 1 - 7 in a file named ‘readme.md’.
 
 - What runs JavaScript outside the browser ?
@@ -13,32 +14,48 @@ For this assignment, create a folder and name it ‘js-basics’. Put the answer
 
 
 # Answers
+# What runs JavaScript outside the browser ?
 
-- 1. JavaScript runs outside the browser using Node.js
+- JavaScript runs outside the browser using Node.js
 
-- 2. It can be used to build Web Applications, 
+# Name 5 things Javascript can do.
+
+- It can be used to build Web Applications, 
 - It can be used to build Mobile Application, 
 - It can be used to build Artificial Intelligence e.g chatbots, 
 - It can be used to build Backend Application, 
 - It can be used to build Game Application
 
-- 3. 1997
+# When was ECMAScript first released ?
 
-- 4. You log into the console using the command console.log(). To access the console of your browser on windows press Ctrl + Shift + C
+- 1997
 
-- 5. JavaScript is a dynamically typed language that cut across all fields.
-Frontend Developers, Backend Developers, Mobile Developers, Full stack Developer, JavaScript Developer, Software Engineers
+# How do you log to the console?
 
-- 6. Statically typed languages vs Dynamically type languages
+- You log into the console using the command console.log(). To access the console of your browser on windows press Ctrl + Shift + C
 
-- A statically typed language is a programming language that checks variable type at compile time. In this type of language the variable type must be declared before use and cannot be change during program's execution. e.g. C, C++, Java
+# List the tech fields that use JavaScript, for example FrontEnd.
 
-- A Dynamically typed laguage is a programming laguage that checks variable type at run time. The varaible type doesn't need to be declared before use and be changed at any time during program's execution. e.g. Python, JavaScript, Ruby
+- JavaScript is a dynamically typed language that cut across all fields.
+1. Frontend Developers, 
+2. Backend Developers, 
+3. Mobile Developers, 
+4. Full stack Developer, 
+5. JavaScript Developer, 
+6. Software Engineers
+
+# Differentiate between Statically typed and Dynamically typed programming languages and give examples of languages that fall under each category
+
+- A statically typed language is a programming language that checks variable type at compile time. In this type of language the variable type must be declared before use and cannot be change during program's execution. e.g. C, C++, Java.
+
+- A Dynamically typed language is a programming language that checks variable type at run time. The varaible type doesn't need to be declared before use and can be changed at any time during program's execution. e.g. Python, JavaScript, Ruby.
+
+# Differentiate between the JavaScript data types ‘null’ and ‘undefined&
                               
-- 7. Null is a variable tha has been explicitly assigned the null value while Undefined is a variable that has not been assigned a value yet
+- Null is a variable tha has been explicitly assigned the null value while Undefined is a variable that has not been assigned a value yet.
 
 let x;
-console.log(x); // x is undefined
+console.log(x); // Output: x is undefined
 
 let y == null;
-console.log(y); // y is null
+console.log(y); // Output:  y is null
