@@ -18,6 +18,8 @@ console.log(skills);
 console.log(favoriteColor);
 console.log(countryIndependence);
 
-console.log(`My name is ${firstName} ${lastName}. I am a ${stuternTrack} learning at Stutern. I have some basic ${skills} skills. My favorite color is ${favoriteColor}. The country I live in got her independence ${countryIndependence}.
+console.log(`My name is ${firstName} ${lastName}. I am a ${stuternTrack} learning at Stutern. I have some basic ${skills} skills. My favorite color is ${favoriteColor}. My country Nigeria got her independence in October 1st ${countryIndependence}.
 `);
+
+
 
