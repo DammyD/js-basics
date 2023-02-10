@@ -54,7 +54,7 @@ For this assignment, create a folder and name it ‘js-basics’. Put the answer
 
 - A Dynamically typed language is a programming language that checks variable type at run time. The varaible type doesn't need to be declared before use and can be changed at any time during program's execution. e.g. Python, JavaScript, Ruby.
 
-# Differentiate between the JavaScript data types ‘null’ and ‘undefined&nbsp;
+# Differentiate between the JavaScript data types ‘null’ and ‘undefined’&nbsp;
                               
 - Null is a variable tha has been explicitly assigned the null value while Undefined is a variable that has not been assigned a value yet.
 
