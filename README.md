@@ -24,10 +24,10 @@ For this assignment, create a folder and name it ‘js-basics’. Put the answer
 
 # Name 5 things Javascript can do.
 
-- It can be used to build Web Applications, 
-- It can be used to build Mobile Application, 
-- It can be used to build Artificial Intelligence e.g chatbots, 
-- It can be used to build Backend Application, 
+- It can be used to build Web Applications 
+- It can be used to build Mobile Application 
+- It can be used to build Artificial Intelligence e.g chatbots 
+- It can be used to build Backend Application
 - It can be used to build Game Application
 
 # When was ECMAScript first released ?
@@ -43,11 +43,11 @@ console.log("Hello, World!"); // Output: Hello, World!
 # List the tech fields that use JavaScript, for example FrontEnd.
 
 - JavaScript is a dynamically typed language that cut across all fields.
-1. Frontend Developers, 
-2. Backend Developers, 
-3. Mobile Developers, 
-4. Full stack Developer, 
-5. JavaScript Developer, 
+1. Frontend Developers
+2. Backend Developers 
+3. Mobile Developers 
+4. Full stack Developer 
+5. JavaScript Developer 
 6. Software Engineers
 
 # Differentiate between Statically typed and Dynamically typed programming languages and give examples of languages that fall under each category
@@ -64,4 +64,4 @@ let x;
 console.log(x); // Output: x is undefined
 
 let y = null;
-console.log(y); // Output:  y is null
+console.log(y); // Output: y is null
