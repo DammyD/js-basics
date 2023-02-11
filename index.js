@@ -7,7 +7,7 @@
 let firstName = 'Blessing';
 let lastName = 'Dawodu';
 let stuternTrack = 'Frontend Engineer';
-let skills = 'web development';
+let skills = 'Web Development';
 let favoriteColor = 'Black';
 let countryIndependence = 1960;
 
@@ -18,7 +18,7 @@ console.log(skills);
 console.log(favoriteColor);
 console.log(countryIndependence);
 
-console.log(`My name is ${firstName} ${lastName}. I am a ${stuternTrack} learning at Stutern. I have some basic ${skills} skills. My favorite color is ${favoriteColor}. My country Nigeria got her independence in October 1st ${countryIndependence}.
+console.log(`My name is ${firstName} ${lastName}. I am a ${stuternTrack} learning at Stutern. I have some basic ${skills} skills. My favorite color is ${favoriteColor}. My country Nigeria, got her Independence in October 1st ${countryIndependence}.
 `);
 
 
