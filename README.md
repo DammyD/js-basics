@@ -20,7 +20,7 @@ For this assignment, create a folder and name it ‘js-basics’. Put the answer
 
 # What runs JavaScript outside the browser ?
 
-- JavaScript runs outside the browser using Node.js
+- JavaScript runs outside the browser using node.js
 
 # Name 5 things Javascript can do.
 
@@ -37,6 +37,8 @@ For this assignment, create a folder and name it ‘js-basics’. Put the answer
 # How do you log to the console?
 
 - You log into the console using the command console.log(). To access the console of your browser on windows press Ctrl + Shift + C
+
+console.log("Hello, World!"); // Output: Hello, World!
 
 # List the tech fields that use JavaScript, for example FrontEnd.
 
