@@ -60,8 +60,8 @@ console.log("Hello, World!"); // Output: Hello, World!
                               
 - Null is a variable tha has been explicitly assigned the null value while Undefined is a variable that has not been assigned a value yet.
 
-let x;
+let x; \n
 console.log(x); // Output: x is undefined
 
-let y = null;
+let y = null; \n
 console.log(y); // Output: y is null
